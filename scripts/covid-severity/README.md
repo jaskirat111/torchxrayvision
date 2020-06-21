@@ -31,7 +31,7 @@ $ python predict_severity.py 01E392EE-69F9-4E33-BFCE-E5C968654078.jpeg  -salienc
 
 ```
 
-| Image             | Saliency map | Predictions       |
+| Image             | Activation map | Predictions       |
 |-------------------------------|-------------------------------|-----------|
 | ![](examples/2966893D-5DDF-4B68-9E2B-4979D5956C8E.jpeg-resize.jpg)| ![](examples/2966893D-5DDF-4B68-9E2B-4979D5956C8E.jpeg-heatmap.jpg)| geographic_extent (0-8): 5.979 <br>opacity (0-6): 4.17 |
 | ![](examples/31BA3780-2323-493F-8AED-62081B9C383B.jpeg-resize.jpg)| ![](examples/31BA3780-2323-493F-8AED-62081B9C383B.jpeg-heatmap.jpg)| geographic_extent (0-8): 6.293 <br>opacity (0-6): 4.367 |
